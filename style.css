@@ -1,0 +1,33 @@
+body{
+	background-color: pink;
+}
+
+
+p 
+{
+ color: red ;
+ background-color: cyan;
+ size: 2em;
+}
+h1 
+{
+	color: red;
+}
+h2
+{
+	color: blueviolet;
+}
+
+.special
+{
+	background-color: palegreen;
+}
+
+div
+{
+	background-color: gray;
+	border: 4px darkblue solid;
+	border border-radius: 35px ;
+	width: 75%;
+	height: 150px;
+}
